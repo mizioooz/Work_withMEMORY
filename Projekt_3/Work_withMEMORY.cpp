@@ -29,7 +29,7 @@ int main()
 	//max for this func // for hex79 // for dec 121 //
 	//for bin 0111 1001
 	char SU = 0;
-	cout << pow(2, 7);
+	//cout << pow(2, 7);
 	SU |= 0x40; // 01111001
 
 	cout << int(SU) << endl;
